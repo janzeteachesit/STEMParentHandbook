@@ -35,6 +35,7 @@ Originally published by Author at [medium.com/tssm]() on date and time.
 
 
 ## Tools
+- [Process](https://github.com/janzeteachesit/2017-2018/blob/master/process-20171021.md)
 - [GitBook](tools/gitbook.md)
   - [Publishing with GitHub 20170503](https://drive.google.com/open?id=1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c)
 - [GitHub](https://github.com/)
