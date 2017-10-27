@@ -1,4 +1,4 @@
-# Student Handbook
+# Staff Handbook
 ## STEM 2017-2018
 
 created 2017/10/19
