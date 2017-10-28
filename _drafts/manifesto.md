@@ -1,22 +1,19 @@
 # A STEM Manifesto
-
 We strive to uncover better ways of teaching and learning by doing it and by helping others to do it.
 
 In our journey, we have come to value:
 
-- over 
-- over 
-- project-focused, extended learning over seperate and distinct content-area classes
-- demonstrations and presentations over tests and exams
-- making artifacts over seat work
+- __This__ over that 
+- __This__ over that  
+- __Project-focused, extended learning__ over seperate and distinct content-area classes
+- __Demonstrations and presentations__ over tests and exams
+- __Making artifacts__ over seat work
 
 That is, while there is value in the items on the right, we value the items on the left more.
 
-Principles behind the STEM Manifesto
 
-
-
-We follow these principles:
+## Principles behind the STEM Manifesto
+### We follow these principles:
 
 - Our highest priority is to engage students through challenging and thoughtful projects.
 - Teachers and students must learn together daily throughout the project.
