@@ -3,10 +3,10 @@
 - [Social Constructivism]()
   1. Everyone is a participant
      - A shared culture and practice exists where everyone contributes, allowing students to contribute different types of expertise.
-  7. Everything is interconnected
-     - Students can share their work, skill, and knowledge with others across networks, groups, and communities.
   3. Learning feels like play
      - Learning experiences are engaging, learner-centered, and organized to support inquiry and creativity.
+  7. Everything is interconnected
+     - Students can share their work, skill, and knowledge with others across networks, groups, and communities.
 - [Situated and Embodied]()
   4. Learning happens by doing
      - Learning is active and experiential. Students learn by proposing, testing, playing with, and validating theories about the world.
